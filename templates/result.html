@@ -7,7 +7,8 @@
     <body>
         <div class="center-on-page">
             {% if error %}
-            <p>{{ error }}</p>
+            <h1>{{ error }}</h1>
+            
             {% endif %}
             {% for d in data %}
             {% set my_string = "static/img/" + d['weather'][0]['icon'] + ".svg" %}
