@@ -1,9 +1,8 @@
-Flask==1.0
-gunicorn==19.7.1
-itsdangerous==0.24
+Click==7.0
+Flask==1.1.1
+gunicorn==19.9.0
+itsdangerous==1.1.0
 Jinja2==2.10.1
-click==6.7
-MarkupSafe==1.0
-pytz==2017.2
-requests==2.20.0
-Werkzeug==0.15.3
+MarkupSafe==1.1.1
+requests==2.13.0
+Werkzeug==0.15.6
