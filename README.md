@@ -1,7 +1,7 @@
 # Weather webapp
 This is a simple Flask-based weather app written in Python that uses the Openweathermap API.
 
-# Running the webapp locally
+## Running the webapp locally
 To run the application locally, type the following in your terminal to clone the repository:
 ```
 $ git clone https://github.com/malikudit/weather-webapp.git
