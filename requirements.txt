@@ -18,7 +18,7 @@ pbr==5.4.5
 pylint==2.5.2
 python-dateutil==2.8.1
 pytz==2020.1
-requests==2.23.0
+requests==2.31.0
 six==1.15.0
 stevedore==2.0.0
 toml==0.10.1
